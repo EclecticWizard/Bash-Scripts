@@ -1,6 +1,6 @@
 src=(~/Documents/Obsidian/
   ~/Documents/NKS-Notes/
-  ~/Documents/Calibre\ Library/
+  ~/Documents/calibre_library/
   ~/Documents/Qualifications/)
 
 dest=(/mnt/share/vault_backups/
