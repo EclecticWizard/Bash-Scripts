@@ -1,4 +1,4 @@
-src=(~/Documents/Obsidian/
+src=(~/Documents/Vault/
   ~/Documents/NKS-Notes/
   ~/Documents/calibre_library/
   ~/Documents/Qualifications/)
@@ -8,7 +8,7 @@ dest=(/mnt/share/vault_backups/
   /mnt/share/Calibre/
   /mnt/share/Calibre/)
 
-dropbox=(~/Documents/Obsidian/
+dropbox=(~/Documents/Vault/
   ~/Documents/NKS-Notes/)
 
 i=0
