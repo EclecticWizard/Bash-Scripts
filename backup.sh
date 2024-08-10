@@ -1,12 +1,14 @@
 src=(~/Documents/Vault/
   ~/Documents/NKS-Notes/
   ~/Documents/calibre_library/
-  ~/Documents/Qualifications/)
+  ~/Documents/Qualifications/
+  ~/.thunderbird/gzqw7ljt.default-release-2/ImapMail/)
 
 dest=(/mnt/share/vault_backups/
   /mnt/share/vault_backups/
   /mnt/share/Calibre/
-  /mnt/share/Calibre/)
+  /mnt/share/Calibre/
+  /mnt/share/Email)
 
 dropbox=(~/Documents/Vault/
   ~/Documents/NKS-Notes/)
